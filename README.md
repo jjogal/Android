@@ -8,4 +8,4 @@
 - apktool.jar : Stable version of apktool to decompile and compile android apk
 
 **For more Information:**
-[The Dark Source](http://thedarksource.com)
+[The Dark Source](https://www.thedarksource.com/category/mobile/)
